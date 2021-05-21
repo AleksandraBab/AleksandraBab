@@ -13,5 +13,5 @@ JavaScript, React, HTML, Css, Sass, Git, Webpack
 
 ### Моя статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=dracula)
 
