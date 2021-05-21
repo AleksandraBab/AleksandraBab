@@ -11,6 +11,7 @@
 ### Мой стек
 JavaScript, React, HTML, Css, Sass, Git, Webpack
 
+### Моя статистика
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab)](https://github.com/aleksandrabab/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=radical)
 
