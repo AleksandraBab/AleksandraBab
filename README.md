@@ -2,6 +2,7 @@
 
 Студентка Яндекс.Практикума. Обожаю изучать новое и хочу стать настоящим профессионалом в веб-разработке :star:
 
+
 - люблю чистый, читабельный код и стараюсь всегда улучшать свои работы
 - постоянно изучаю новое, хочу освоить новые фреймворки
 - хочу работать над большими, интересными и сложными проектами
@@ -9,4 +10,7 @@
 
 ### Мой стек
 JavaScript, React, HTML, Css, Sass, Git, Webpack
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab)](https://github.com/aleksandrabab/github-readme-stats)
 
