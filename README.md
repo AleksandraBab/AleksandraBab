@@ -5,7 +5,8 @@
 - люблю чистый, читабельный код и стараюсь всегда улучшать свои работы
 - постоянно изучаю новое, хочу освоить новые фреймворки
 - хочу работать над большими, интересными и сложными проектами
+- люблю соревонвания. Моя команда была выбрана в числе 6-ти лучших из 43-х участвующих команд в хакатоне от Яндекс.Практикума: https://github.com/Charity-project-bbbs/bbbs-project
 
-## Мой стек
-https://yt3.ggpht.com/a/AATXAJxyxKKfA3JoweQftnzxWrysSH5Mn6CqlLsxm7Cg=s900-c-k-c0xffffffff-no-rj-mo
+# Мой стек
+JavaScript, React, HTML, Css, Sass, Git, Webpack
 
