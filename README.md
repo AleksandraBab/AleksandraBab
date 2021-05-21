@@ -16,6 +16,4 @@ JavaScript, React, HTML, Css, Sass, Git, Webpack
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=dracula) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrabab)](https://github.com/aleksandrabab/github-readme-stats)
-
 
