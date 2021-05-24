@@ -19,10 +19,5 @@ JavaScript, React, HTML, Css, Sass, Git, Webpack, npm.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=dracula) 
 
-### Связаться со мной 
-tg: @bobsbohnen
-<br>
-email: alex-elm@yandex.ru
-
 
 
