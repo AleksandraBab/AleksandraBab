@@ -13,7 +13,7 @@
 - улучшаю навыки работы с RESTful сервисами, в проект Mesto будут добавлены функции автоматической прогрузки новых элементов, добавленных другими пользователями
 
 ### Мой стек
-JavaScript, React, HTML, Css, Sass, Git, Webpack, npm.
+JavaScript, React, Angular, HTML, Css, Sass, Git, Webpack, npm.
 
 ### Моя статистика
 
