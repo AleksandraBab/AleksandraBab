@@ -18,6 +18,8 @@ JavaScript, React, Angular, HTML, Css, Sass, Git, Webpack, npm.
 ### Моя статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrabab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
