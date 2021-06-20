@@ -13,7 +13,7 @@
 - мне интересна анимация, сейчас занимаюсь её добавлением в проект для хакатона
 
 ### Мой стек
-JavaScript, React, Angular, HTML, Css, Sass, Git, Webpack, npm.
+JavaScript (ES6), React, Angular, TypeScript, HTML, Css, Sass, Git, Webpack, npm.
 
 ### Моя статистика
 
