@@ -1,17 +1,17 @@
-### Привет! Я Саша — frontend разработчик.
+### Hi! I am Sasha, frontend developer.
 
+— My goal is a permanent self-development and improvement. I like coding and do my best to be a great developer :)
+— 7 months experience in commercial development. Current position is a junior developer in T-Systems Rus (Deutsche Telekom) in the IoT-department.
+— 11 months study in Yandex.Praktikum including permanent practical projects and participation in hackathons
+— My focus technology is Angular framework.
 
-- люблю чистый, читабельный код и стараюсь всегда улучшать свои работы
-- хочу работать над большими, интересными и сложными проектами
-- люблю соревнования. Моя команда была выбрана в числе 6-ти лучших из 43-х участвующих команд в хакатоне от Яндекс.Практикума: https://github.com/Charity-project-bbbs/bbbs-project/. Я также занималась менеджментом проекта и делала ревью кода коллег. Наша команда занималась вёрсткой: адаптивная вёрстка с использованием grid и flex.
+### Plans
+- 
 
-### Планы по улучшению проектов
-- продолжаю изучать фреймворки React и Angular, по мере продвижения добавляю новую функциональность в проекты
+### Stack
+JavaScript (ES6), React, Angular, TypeScript, Jest, RxJs, HTML, Css, Sass, Less, Git, Webpack, npm, BEM.
 
-### Мой стек
-JavaScript (ES6), React, Angular, TypeScript, HTML, Css, Sass, Git, Webpack, npm.
-
-### Моя статистика
+### My stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrabab&show_icons=true&theme=dracula) 
 
