@@ -8,11 +8,9 @@
 <br>
 — My focus technology is Angular framework.
 
-### Plans
-- 
 
 ### Stack
-JavaScript (ES6), React, Angular, TypeScript, Jest, RxJs, HTML, Css, Sass, Less, Git, Webpack, npm, BEM.
+JavaScript, TypeScript, React, Angular, Jest, RxJs, HTML, css, scss, less, Git, Webpack, npm, BEM.
 
 ### My stats
 
