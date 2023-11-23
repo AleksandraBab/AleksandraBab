@@ -1,7 +1,5 @@
 ### Hi! I am Sasha, frontend developer.
 
-— My focus technology is Angular framework.
-
 
 ### Stack
 JavaScript, TypeScript, React, Angular, Jest, RxJs, NgRx.
